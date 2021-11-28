@@ -1,4 +1,4 @@
-# Mini-Project
+# Mini Project
 
 <!-- Project Name -->
  <h3 align="center">Image Classifier</h3>
