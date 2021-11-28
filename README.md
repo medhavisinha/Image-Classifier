@@ -44,8 +44,8 @@ Additional Packages that are required are: [Numpy](http://www.numpy.org/), [Pand
 <br />
 You can donwload them using:
 <br />
-[pip](https://pypi.org/project/pip/):
-    - ```pip install numpy pandas matplotlib pil```
+[pip](https://pypi.org/project/pip/): 
+```pip install numpy pandas matplotlib pil```
     <br/>
-    or [conda](http://www.numpy.org/)
-    - ```conda install numpy pandas matplotlib pil```
+    or [conda](http://www.numpy.org/): 
+    ```conda install numpy pandas matplotlib pil```
