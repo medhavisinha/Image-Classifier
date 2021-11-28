@@ -1,8 +1,4 @@
 # Image-Classifier
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 <!-- Project Name -->
  <h3 align="center">Image Classifier</h3>
