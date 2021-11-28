@@ -17,4 +17,21 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project:
- Using the knowledge of Data Science in Python, this project has been designed in such a way that it classifies images based on various types of categories. 
+Using Data Science in Python, this project has been designed in such a way that it classifies images based on various types of categories. Several libraries have been used in the code.
+<br />
+Some among them are:
+<br />
+    ·
+    NumPy
+    <br />
+    ·
+    Pandas
+    <br />
+    ·
+    Matplotlib
+    <br />
+    ·
+    OS
+    <br />
+    ·
+    Skimage/Scikit-image
