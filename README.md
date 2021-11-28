@@ -10,8 +10,6 @@
     ·
     <a href="https://github.com/medhavisinha/Image-Classifier/issues">Report Bug</a>
     ·
-    <a href="https://github.com/medhavisinha/Image-Classifier/issues">Request Feature</a>
-    ·
   </p>
 </p>
 
