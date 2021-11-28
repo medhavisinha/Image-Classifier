@@ -35,3 +35,17 @@ Some among them are:
     <br />
     ·
     Skimage/Scikit-image
+    
+<!-- Pre-requisites -->
+## Pre-requisites:
+The Code is written in **Python 3.10.0** . Ensure you have the latest version of pip.
+<br />
+Additional Packages that are required are: [Numpy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [MatplotLib](https://matplotlib.org/), Skimage. 
+<br />
+You can donwload them using 
+<br />
+[pip](https://pypi.org/project/pip/):
+    - ```pip install numpy pandas matplotlib pil```
+    <br/>
+    or [conda](http://www.numpy.org/)
+    - ```conda install numpy pandas matplotlib pil```
