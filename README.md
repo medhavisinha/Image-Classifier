@@ -42,7 +42,7 @@ The Code is written in **Python 3.10.0** . Ensure you have the latest version of
 <br />
 Additional Packages that are required are: [Numpy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [MatplotLib](https://matplotlib.org/), Skimage. 
 <br />
-You can donwload them using 
+You can donwload them using:
 <br />
 [pip](https://pypi.org/project/pip/):
     - ```pip install numpy pandas matplotlib pil```
