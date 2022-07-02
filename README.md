@@ -51,3 +51,9 @@ You can donwload them using:
     <br/>
     or [conda](http://www.numpy.org/): 
     ```conda install numpy pandas matplotlib pil```
+    
+    
+[contributors-shield]: https://img.shields.io/github/contributors/medhavisinha/Image-Classifier.svg?style=for-the-badge
+[contributors-url]: https://github.com/medhavisinha/Image-Classifier/contributors
+[forks-shield]: https://img.shields.io/github/forks/medhavisinha/Image-Classifier.svg?style=for-the-badge
+[forks-url]: https://github.com/medhavisinha/Image-Classifier/network/members
