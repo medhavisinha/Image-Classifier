@@ -1,8 +1,6 @@
-# Image Classifier
+# Mini Project
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-
-# Mini Project
 
 <!-- Project Name -->
  <h3 align="center">Image Classifier</h3>
