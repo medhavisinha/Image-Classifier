@@ -1,3 +1,7 @@
+# Image Classifier
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+
 # Mini Project
 
 <!-- Project Name -->
